@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "registerationId": "HMS123456",
+      "lactation": "Milking",
+      "breed": "open",
+      "organisation": "Akshayakalpa Organic Milk",
+      "date": "12 Sep 2018",
+      "nextReview": "01 Oct 2018",
+      "worm": "Endo",
+      "dewormer": "Yes",
+      "doneBy": "Govt. Doctor",
+      "serviceCost": "Rs 500",
+      "medicine": "Ampicil",
+      "dose": "50 ml",
+      "unitPrice": "30.00",
+      "route": "IM"
+    }
+      
+]

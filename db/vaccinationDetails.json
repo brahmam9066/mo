@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "registerationId": "HMS123456",
+      "lactation": "Milking",
+      "breed": "open",
+      "organisation": "Akshayakalpa Organic Milk",
+      "tretmentDate": "10 Oct 2018",
+      "diseases": "FMD",
+      "doneBy": "Govt. Futvac",
+      "serviceCost": "Rs 500",
+      "vaccination": "Raksha Biovac",
+      "dose": "50 ml",
+      "unitPrice": "30.00",
+      "route": "IV",
+      "dehorningDate": "23 Oct 2018"
+    }
+      
+]

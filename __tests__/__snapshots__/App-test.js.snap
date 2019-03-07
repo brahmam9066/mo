@@ -1,0 +1,1260 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    onMoveShouldSetResponder={[Function]}
+    onMoveShouldSetResponderCapture={[Function]}
+    onResponderEnd={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderReject={[Function]}
+    onResponderRelease={[Function]}
+    onResponderStart={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    onStartShouldSetResponderCapture={[Function]}
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "flexDirection": "column-reverse",
+          "overflow": "hidden",
+        },
+        Object {
+          "backgroundColor": "#000",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        accessibilityElementsHidden={false}
+        pointerEvents="auto"
+        style={
+          Object {
+            "backgroundColor": "#E9E9EF",
+            "bottom": 0,
+            "left": 0,
+            "opacity": 1,
+            "paddingTop": 64,
+            "position": "absolute",
+            "right": 0,
+            "shadowColor": "black",
+            "shadowOffset": Object {
+              "height": 0,
+              "width": 0,
+            },
+            "shadowOpacity": 0.2,
+            "shadowRadius": 5,
+            "top": 0,
+            "transform": Array [
+              Object {
+                "translateX": 0,
+              },
+              Object {
+                "translateY": 0,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#ffffff",
+              "flex": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "grey",
+                "padding": 20,
+              }
+            }
+          >
+            Home / mooON Dashboard
+          </Text>
+          <View
+            collapsable={false}
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "overflow": "hidden",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "white",
+                  "color": "grey",
+                  "elevation": 4,
+                  "shadowColor": "black",
+                  "shadowOffset": Object {
+                    "height": 0.5,
+                  },
+                  "shadowOpacity": 0.1,
+                  "shadowRadius": 0.5,
+                  "zIndex": 1,
+                }
+              }
+            >
+              <View
+                pointerEvents="none"
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "black",
+                      "bottom": 0,
+                      "height": 2,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "transform": Array [
+                        Object {
+                          "translateX": 0,
+                        },
+                      ],
+                      "width": 187.5,
+                    }
+                  }
+                />
+              </View>
+              <View
+                style={
+                  Object {
+                    "overflow": "scroll",
+                  }
+                }
+              >
+                <RCTScrollView
+                  alwaysBounceHorizontal={false}
+                  automaticallyAdjustContentInsets={false}
+                  contentContainerStyle={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "flexWrap": "nowrap",
+                      },
+                      Object {
+                        "flex": 1,
+                      },
+                    ]
+                  }
+                  horizontal={true}
+                  keyboardShouldPersistTaps="handled"
+                  onMomentumScrollBegin={[Function]}
+                  onMomentumScrollEnd={[Function]}
+                  onScroll={[Function]}
+                  onScrollBeginDrag={[Function]}
+                  onScrollEndDrag={[Function]}
+                  overScrollMode="never"
+                  scrollEventThrottle={1}
+                  scrollsToTop={false}
+                  showsHorizontalScrollIndicator={false}
+                >
+                  <View>
+                    <View
+                      accessibilityLabel="REGISTRATION"
+                      accessible={true}
+                      isTVSelectable={true}
+                      onResponderGrant={[Function]}
+                      onResponderMove={[Function]}
+                      onResponderRelease={[Function]}
+                      onResponderTerminate={[Function]}
+                      onResponderTerminationRequest={[Function]}
+                      onStartShouldSetResponder={[Function]}
+                      style={
+                        Object {
+                          "flex": 1,
+                          "opacity": 1,
+                        }
+                      }
+                    >
+                      <View
+                        pointerEvents="none"
+                        style={
+                          Object {
+                            "flex": 1,
+                          }
+                        }
+                      >
+                        <View
+                          style={
+                            Object {
+                              "alignItems": "center",
+                              "flex": 1,
+                              "justifyContent": "center",
+                              "opacity": 1,
+                              "padding": 8,
+                              "paddingTop": 8,
+                            }
+                          }
+                        >
+                          <Image
+                            source={
+                              Object {
+                                "testUri": "../../../images/registration.png",
+                              }
+                            }
+                            style={
+                              Object {
+                                "height": 53,
+                                "width": 72,
+                              }
+                            }
+                          />
+                          <Text
+                            style={
+                              Object {
+                                "backgroundColor": "transparent",
+                                "color": "grey",
+                                "fontSize": 10,
+                                "margin": 8,
+                              }
+                            }
+                          >
+                            REGISTRATION
+                          </Text>
+                        </View>
+                      </View>
+                    </View>
+                    <View
+                      accessibilityLabel="HEALTH"
+                      accessible={true}
+                      isTVSelectable={true}
+                      onResponderGrant={[Function]}
+                      onResponderMove={[Function]}
+                      onResponderRelease={[Function]}
+                      onResponderTerminate={[Function]}
+                      onResponderTerminationRequest={[Function]}
+                      onStartShouldSetResponder={[Function]}
+                      style={
+                        Object {
+                          "flex": 1,
+                          "opacity": 1,
+                        }
+                      }
+                    >
+                      <View
+                        pointerEvents="none"
+                        style={
+                          Object {
+                            "flex": 1,
+                          }
+                        }
+                      >
+                        <View
+                          style={
+                            Object {
+                              "alignItems": "center",
+                              "flex": 1,
+                              "justifyContent": "center",
+                              "opacity": 0.7,
+                              "padding": 8,
+                              "paddingTop": 8,
+                            }
+                          }
+                        >
+                          <Image
+                            source={
+                              Object {
+                                "testUri": "../../../images/health.png",
+                              }
+                            }
+                            style={
+                              Object {
+                                "height": 53,
+                                "width": 72,
+                              }
+                            }
+                          />
+                          <Text
+                            style={
+                              Object {
+                                "backgroundColor": "transparent",
+                                "color": "grey",
+                                "fontSize": 10,
+                                "margin": 8,
+                              }
+                            }
+                          >
+                            HEALTH
+                          </Text>
+                        </View>
+                      </View>
+                    </View>
+                    <View
+                      accessibilityLabel="BREED"
+                      accessible={true}
+                      isTVSelectable={true}
+                      onResponderGrant={[Function]}
+                      onResponderMove={[Function]}
+                      onResponderRelease={[Function]}
+                      onResponderTerminate={[Function]}
+                      onResponderTerminationRequest={[Function]}
+                      onStartShouldSetResponder={[Function]}
+                      style={
+                        Object {
+                          "flex": 1,
+                          "opacity": 1,
+                        }
+                      }
+                    >
+                      <View
+                        pointerEvents="none"
+                        style={
+                          Object {
+                            "flex": 1,
+                          }
+                        }
+                      >
+                        <View
+                          style={
+                            Object {
+                              "alignItems": "center",
+                              "flex": 1,
+                              "justifyContent": "center",
+                              "opacity": 0.7,
+                              "padding": 8,
+                              "paddingTop": 8,
+                            }
+                          }
+                        >
+                          <Image
+                            source={
+                              Object {
+                                "testUri": "../../../images/breed.png",
+                              }
+                            }
+                            style={
+                              Object {
+                                "height": 53,
+                                "width": 72,
+                              }
+                            }
+                          />
+                          <Text
+                            style={
+                              Object {
+                                "backgroundColor": "transparent",
+                                "color": "grey",
+                                "fontSize": 10,
+                                "margin": 8,
+                              }
+                            }
+                          >
+                            BREED
+                          </Text>
+                        </View>
+                      </View>
+                    </View>
+                    <View
+                      accessibilityLabel="NUTRITION"
+                      accessible={true}
+                      isTVSelectable={true}
+                      onResponderGrant={[Function]}
+                      onResponderMove={[Function]}
+                      onResponderRelease={[Function]}
+                      onResponderTerminate={[Function]}
+                      onResponderTerminationRequest={[Function]}
+                      onStartShouldSetResponder={[Function]}
+                      style={
+                        Object {
+                          "flex": 1,
+                          "opacity": 1,
+                        }
+                      }
+                    >
+                      <View
+                        pointerEvents="none"
+                        style={
+                          Object {
+                            "flex": 1,
+                          }
+                        }
+                      >
+                        <View
+                          style={
+                            Object {
+                              "alignItems": "center",
+                              "flex": 1,
+                              "justifyContent": "center",
+                              "opacity": 0.7,
+                              "padding": 8,
+                              "paddingTop": 8,
+                            }
+                          }
+                        >
+                          <Image
+                            source={
+                              Object {
+                                "testUri": "../../../images/nutrition.png",
+                              }
+                            }
+                            style={
+                              Object {
+                                "height": 53,
+                                "width": 72,
+                              }
+                            }
+                          />
+                          <Text
+                            style={
+                              Object {
+                                "backgroundColor": "transparent",
+                                "color": "grey",
+                                "fontSize": 10,
+                                "margin": 8,
+                              }
+                            }
+                          >
+                            NUTRITION
+                          </Text>
+                        </View>
+                      </View>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "flex": 1,
+                }
+              }
+            >
+              <RCTScrollView
+                alwaysBounceHorizontal={false}
+                automaticallyAdjustContentInsets={false}
+                bounces={false}
+                contentContainerStyle={null}
+                contentOffset={
+                  Object {
+                    "x": 0,
+                    "y": 0,
+                  }
+                }
+                directionalLockEnabled={true}
+                horizontal={true}
+                keyboardDismissMode="on-drag"
+                keyboardShouldPersistTaps="always"
+                onMomentumScrollEnd={[Function]}
+                onScroll={[Function]}
+                overScrollMode="never"
+                pagingEnabled={true}
+                scrollEventThrottle={1}
+                scrollsToTop={false}
+                showsHorizontalScrollIndicator={false}
+                style={
+                  Object {
+                    "flex": 1,
+                  }
+                }
+              >
+                <View>
+                  <View
+                    accessibilityElementsHidden={false}
+                    importantForAccessibility="auto"
+                    style={
+                      Object {
+                        "overflow": "hidden",
+                        "width": 750,
+                      }
+                    }
+                  >
+                    <RCTScrollView
+                      style={
+                        Object {
+                          "backgroundColor": "#f2f2f2",
+                          "flex": 1,
+                        }
+                      }
+                    >
+                      <View>
+                        <View
+                          style={
+                            Object {
+                              "backgroundColor": "#ffffff",
+                              "borderColor": "#9b9d9f",
+                              "borderWidth": 0.5,
+                              "marginTop": 18,
+                            }
+                          }
+                        >
+                          <View
+                            style={
+                              Array [
+                                Object {
+                                  "backgroundColor": "#393e42",
+                                  "borderBottomColor": "#000",
+                                  "borderBottomWidth": 1,
+                                  "borderTopColor": "#000",
+                                  "borderTopWidth": 1,
+                                },
+                                Object {
+                                  "backgroundColor": "#e1e8ee",
+                                  "borderBottomColor": "#e1e1e1",
+                                  "borderTopColor": "#e1e1e1",
+                                },
+                                Object {
+                                  "backgroundColor": "white",
+                                  "borderColor": "grey",
+                                  "borderRadius": 5,
+                                  "borderWidth": 1,
+                                  "margin": 15,
+                                },
+                              ]
+                            }
+                          >
+                            <TextInput
+                              allowFontScaling={true}
+                              onChangeText={[Function]}
+                              onClearText={[Function]}
+                              placeholder="Search Cattle"
+                              placeholderTextColor="#86939e"
+                              style={
+                                Array [
+                                  Object {
+                                    "backgroundColor": "#303337",
+                                    "borderRadius": 3,
+                                    "color": "#86939e",
+                                    "fontSize": 17.5,
+                                    "height": 30,
+                                    "margin": 8,
+                                    "overflow": "hidden",
+                                    "paddingLeft": 26,
+                                    "paddingRight": 19,
+                                  },
+                                  Object {
+                                    "backgroundColor": "#bdc6cf",
+                                  },
+                                  false,
+                                  false,
+                                  Object {
+                                    "backgroundColor": "white",
+                                  },
+                                  undefined,
+                                  false,
+                                ]
+                              }
+                              underlineColorAndroid="transparent"
+                            />
+                            <Text
+                              allowFontScaling={false}
+                              style={
+                                Array [
+                                  Object {
+                                    "color": "#86939e",
+                                    "fontSize": 16,
+                                  },
+                                  Array [
+                                    Object {
+                                      "backgroundColor": "transparent",
+                                      "position": "absolute",
+                                      "top": 15.5,
+                                    },
+                                    Object {
+                                      "left": 16,
+                                    },
+                                    undefined,
+                                  ],
+                                  Object {
+                                    "fontFamily": "FontAwesome",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "normal",
+                                  },
+                                  Object {},
+                                ]
+                              }
+                            >
+                              
+                            </Text>
+                          </View>
+                          <View
+                            style={
+                              Object {
+                                "flexDirection": "row",
+                                "flexWrap": "wrap",
+                                "height": 240,
+                                "width": 750,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "white",
+                                  "height": 120,
+                                  "justifyContent": "center",
+                                  "width": 205,
+                                }
+                              }
+                            >
+                              <Image
+                                source={
+                                  Object {
+                                    "testUri": "../../../images/reg1.png",
+                                  }
+                                }
+                                style={
+                                  Object {
+                                    "height": 80,
+                                    "width": 80,
+                                  }
+                                }
+                              />
+                              <Text
+                                style={
+                                  Object {
+                                    "color": "#9b9d9f",
+                                  }
+                                }
+                              >
+                                Register Cattle
+                              </Text>
+                            </View>
+                            <View
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "white",
+                                  "height": 120,
+                                  "justifyContent": "center",
+                                  "width": 205,
+                                }
+                              }
+                            >
+                              <Image
+                                source={
+                                  Object {
+                                    "testUri": "../../../images/reg2.png",
+                                  }
+                                }
+                                style={
+                                  Object {
+                                    "height": 80,
+                                    "width": 80,
+                                  }
+                                }
+                              />
+                              <Text
+                                style={
+                                  Object {
+                                    "color": "#9b9d9f",
+                                  }
+                                }
+                              >
+                                Register Sire
+                              </Text>
+                            </View>
+                            <View
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "white",
+                                  "height": 120,
+                                  "justifyContent": "center",
+                                  "width": 205,
+                                }
+                              }
+                            >
+                              <Image
+                                source={
+                                  Object {
+                                    "testUri": "../../../images/reg3.png",
+                                  }
+                                }
+                                style={
+                                  Object {
+                                    "height": 80,
+                                    "width": 80,
+                                  }
+                                }
+                              />
+                              <Text
+                                style={
+                                  Object {
+                                    "color": "#9b9d9f",
+                                  }
+                                }
+                              >
+                                Cattle Summary
+                              </Text>
+                            </View>
+                            <View
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "white",
+                                  "height": 120,
+                                  "justifyContent": "center",
+                                  "width": 205,
+                                }
+                              }
+                            >
+                              <Image
+                                source={
+                                  Object {
+                                    "testUri": "../../../images/reg4.png",
+                                  }
+                                }
+                                style={
+                                  Object {
+                                    "height": 80,
+                                    "width": 80,
+                                  }
+                                }
+                              />
+                              <Text
+                                style={
+                                  Object {
+                                    "color": "#9b9d9f",
+                                  }
+                                }
+                              >
+                                Activity Log
+                              </Text>
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Object {
+                                "backgroundColor": "white",
+                                "borderColor": "#9b9d9f",
+                                "borderRadius": 3,
+                                "borderWidth": 1,
+                                "flex": 1,
+                                "height": 100,
+                                "justifyContent": "flex-end",
+                                "margin": 15,
+                              }
+                            }
+                          >
+                            <View
+                              onLayout={[Function]}
+                              style={
+                                Array [
+                                  Object {
+                                    "backgroundColor": "transparent",
+                                    "flex": 1,
+                                    "position": "relative",
+                                  },
+                                  undefined,
+                                ]
+                              }
+                            >
+                              <RCTScrollView
+                                automaticallyAdjustContentInsets={false}
+                                autoplay={false}
+                                autoplayDirection={true}
+                                autoplayTimeout={2.5}
+                                bounces={false}
+                                contentContainerStyle={
+                                  Array [
+                                    Object {
+                                      "backgroundColor": "transparent",
+                                    },
+                                    undefined,
+                                  ]
+                                }
+                                contentOffset={
+                                  Object {
+                                    "x": 0,
+                                  }
+                                }
+                                disableNextButton={false}
+                                horizontal={true}
+                                index={0}
+                                loadMinimal={false}
+                                loadMinimalSize={1}
+                                loop={true}
+                                onIndexChanged={[Function]}
+                                onMomentumScrollEnd={[Function]}
+                                onScrollBeginDrag={[Function]}
+                                onScrollEndDrag={[Function]}
+                                pagingEnabled={true}
+                                removeClippedSubviews={true}
+                                scrollsToTop={false}
+                                showsButtons={false}
+                                showsHorizontalScrollIndicator={false}
+                                showsPagination={true}
+                                showsVerticalScrollIndicator={false}
+                              >
+                                <View>
+                                  <View
+                                    style={
+                                      Array [
+                                        Object {
+                                          "height": 1334,
+                                          "width": 750,
+                                        },
+                                        Object {
+                                          "backgroundColor": "transparent",
+                                        },
+                                      ]
+                                    }
+                                  >
+                                    <View
+                                      style={
+                                        Object {
+                                          "alignItems": "center",
+                                          "backgroundColor": "#ffffff",
+                                          "flex": 1,
+                                          "justifyContent": "center",
+                                        }
+                                      }
+                                    >
+                                      <Text
+                                        style={
+                                          Object {
+                                            "color": "#9b9d9f",
+                                            "fontWeight": "bold",
+                                          }
+                                        }
+                                      >
+                                        And simple
+                                      </Text>
+                                    </View>
+                                  </View>
+                                  <View
+                                    style={
+                                      Array [
+                                        Object {
+                                          "height": 1334,
+                                          "width": 750,
+                                        },
+                                        Object {
+                                          "backgroundColor": "transparent",
+                                        },
+                                      ]
+                                    }
+                                  >
+                                    <View
+                                      style={
+                                        Object {
+                                          "alignItems": "center",
+                                          "backgroundColor": "#ffffff",
+                                          "flex": 1,
+                                          "justifyContent": "center",
+                                        }
+                                      }
+                                    >
+                                      <Text
+                                        style={
+                                          Object {
+                                            "color": "#9b9d9f",
+                                            "fontWeight": "bold",
+                                          }
+                                        }
+                                      >
+                                        Hello Swiper
+                                      </Text>
+                                    </View>
+                                  </View>
+                                  <View
+                                    style={
+                                      Array [
+                                        Object {
+                                          "height": 1334,
+                                          "width": 750,
+                                        },
+                                        Object {
+                                          "backgroundColor": "transparent",
+                                        },
+                                      ]
+                                    }
+                                  >
+                                    <View
+                                      style={
+                                        Object {
+                                          "alignItems": "center",
+                                          "backgroundColor": "#ffffff",
+                                          "flex": 1,
+                                          "justifyContent": "center",
+                                        }
+                                      }
+                                    >
+                                      <Text
+                                        style={
+                                          Object {
+                                            "color": "#9b9d9f",
+                                            "fontWeight": "bold",
+                                          }
+                                        }
+                                      >
+                                        Beautiful
+                                      </Text>
+                                    </View>
+                                  </View>
+                                  <View
+                                    style={
+                                      Array [
+                                        Object {
+                                          "height": 1334,
+                                          "width": 750,
+                                        },
+                                        Object {
+                                          "backgroundColor": "transparent",
+                                        },
+                                      ]
+                                    }
+                                  >
+                                    <View
+                                      style={
+                                        Object {
+                                          "alignItems": "center",
+                                          "backgroundColor": "#ffffff",
+                                          "flex": 1,
+                                          "justifyContent": "center",
+                                        }
+                                      }
+                                    >
+                                      <Text
+                                        style={
+                                          Object {
+                                            "color": "#9b9d9f",
+                                            "fontWeight": "bold",
+                                          }
+                                        }
+                                      >
+                                        And simple
+                                      </Text>
+                                    </View>
+                                  </View>
+                                  <View
+                                    style={
+                                      Array [
+                                        Object {
+                                          "height": 1334,
+                                          "width": 750,
+                                        },
+                                        Object {
+                                          "backgroundColor": "transparent",
+                                        },
+                                      ]
+                                    }
+                                  >
+                                    <View
+                                      style={
+                                        Object {
+                                          "alignItems": "center",
+                                          "backgroundColor": "#ffffff",
+                                          "flex": 1,
+                                          "justifyContent": "center",
+                                        }
+                                      }
+                                    >
+                                      <Text
+                                        style={
+                                          Object {
+                                            "color": "#9b9d9f",
+                                            "fontWeight": "bold",
+                                          }
+                                        }
+                                      >
+                                        Hello Swiper
+                                      </Text>
+                                    </View>
+                                  </View>
+                                </View>
+                              </RCTScrollView>
+                              <View
+                                pointerEvents="none"
+                                style={
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "transparent",
+                                      "bottom": 25,
+                                      "flex": 1,
+                                      "flexDirection": "row",
+                                      "justifyContent": "center",
+                                      "left": 0,
+                                      "position": "absolute",
+                                      "right": 0,
+                                    },
+                                    undefined,
+                                  ]
+                                }
+                              >
+                                <View
+                                  style={
+                                    Array [
+                                      Object {
+                                        "backgroundColor": "#007aff",
+                                        "borderRadius": 4,
+                                        "height": 8,
+                                        "marginBottom": 3,
+                                        "marginLeft": 3,
+                                        "marginRight": 3,
+                                        "marginTop": 3,
+                                        "width": 8,
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                />
+                                <View
+                                  style={
+                                    Array [
+                                      Object {
+                                        "backgroundColor": "rgba(0,0,0,.2)",
+                                        "borderRadius": 4,
+                                        "height": 8,
+                                        "marginBottom": 3,
+                                        "marginLeft": 3,
+                                        "marginRight": 3,
+                                        "marginTop": 3,
+                                        "width": 8,
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                />
+                                <View
+                                  style={
+                                    Array [
+                                      Object {
+                                        "backgroundColor": "rgba(0,0,0,.2)",
+                                        "borderRadius": 4,
+                                        "height": 8,
+                                        "marginBottom": 3,
+                                        "marginLeft": 3,
+                                        "marginRight": 3,
+                                        "marginTop": 3,
+                                        "width": 8,
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                        <View
+                          style={
+                            Object {
+                              "alignItems": "center",
+                              "backgroundColor": "#ffffff",
+                              "borderColor": "#9b9d9f",
+                              "borderWidth": 0.5,
+                              "height": 60,
+                              "justifyContent": "center",
+                              "marginTop": 20,
+                            }
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            isTVSelectable={true}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                              }
+                            }
+                          >
+                            <Image
+                              source={
+                                Object {
+                                  "testUri": "../../../images/home.png",
+                                }
+                              }
+                              style={
+                                Object {
+                                  "height": 50,
+                                  "width": 50,
+                                }
+                              }
+                            />
+                          </View>
+                        </View>
+                      </View>
+                    </RCTScrollView>
+                  </View>
+                  <View
+                    accessibilityElementsHidden={true}
+                    importantForAccessibility="no-hide-descendants"
+                    style={
+                      Object {
+                        "overflow": "hidden",
+                        "width": 750,
+                      }
+                    }
+                  >
+                    <View />
+                  </View>
+                  <View
+                    accessibilityElementsHidden={true}
+                    importantForAccessibility="no-hide-descendants"
+                    style={
+                      Object {
+                        "overflow": "hidden",
+                        "width": 750,
+                      }
+                    }
+                  >
+                    <View />
+                  </View>
+                  <View
+                    accessibilityElementsHidden={true}
+                    importantForAccessibility="no-hide-descendants"
+                    style={
+                      Object {
+                        "overflow": "hidden",
+                        "width": 750,
+                      }
+                    }
+                  >
+                    <View />
+                  </View>
+                </View>
+              </RCTScrollView>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      pointerEvents="box-none"
+      style={
+        Object {
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "black",
+            "transform": Array [
+              Object {
+                "translateX": 0,
+              },
+            ],
+          }
+        }
+      >
+        <View
+          onLayout={[Function]}
+          pointerEvents="box-none"
+          style={
+            Object {
+              "backgroundColor": "black",
+              "borderBottomColor": "#A7A7AA",
+              "borderBottomWidth": 0.5,
+              "height": 64,
+              "paddingBottom": 0,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 20,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "bottom": 0,
+                  "flexDirection": "row",
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            >
+              <View
+                pointerEvents="box-none"
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "transparent",
+                    "bottom": 0,
+                    "flexDirection": "row",
+                    "justifyContent": "center",
+                    "left": 0,
+                    "opacity": 1,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }
+              >
+                <Text
+                  accessibilityTraits="header"
+                  accessible={false}
+                  allowFontScaling={true}
+                  numberOfLines={1}
+                  onLayout={[Function]}
+                  style={
+                    Object {
+                      "color": "#fff",
+                      "fontSize": 17,
+                      "fontWeight": "bold",
+                      "marginHorizontal": 16,
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  Welcome
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
